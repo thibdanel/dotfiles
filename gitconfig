@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thibdanel@hotmail.fr
+	name = Thibault Danel
